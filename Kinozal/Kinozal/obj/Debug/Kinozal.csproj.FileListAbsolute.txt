@@ -1,0 +1,12 @@
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.csprojResolveAssemblyReference.cache
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.Filmler.resources
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.Properties.Resources.resources
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.csproj.GenerateResource.Cache
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.csproj.CoreCompileInputs.cache
+C:\Users\GN\source\repos\Kinozal\Kinozal\bin\Debug\Kinozal.exe.config
+C:\Users\GN\source\repos\Kinozal\Kinozal\bin\Debug\Kinozal.exe
+C:\Users\GN\source\repos\Kinozal\Kinozal\bin\Debug\Kinozal.pdb
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.exe
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.pdb
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.Hesabat.resources
+C:\Users\GN\source\repos\Kinozal\Kinozal\obj\Debug\Kinozal.Oturacaqlar.resources
